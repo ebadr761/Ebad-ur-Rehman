@@ -15,7 +15,7 @@ Inspired by the Ayu Mirage color theme and modern portfolio design practices.
 
 ```
 src/
-├── components/          # React components
+├── components/         # React components
 │   ├── NavBar.tsx      # Navigation with animated highlights
 │   ├── Hero.tsx        # Hero section (intro + CTA)
 │   ├── Projects.tsx    # Featured projects showcase
