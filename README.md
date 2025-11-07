@@ -6,7 +6,7 @@ A modern, responsive portfolio website built with React, TypeScript, and Tailwin
 
 This portfolio website serves as a digital resume and project showcase, featuring a custom design system based on the Ayu Mirage color theme. The site emphasizes readability, visual appeal, and smooth interactions through carefully crafted animations and transitions.
 
-**Live Site:** [View Portfolio](https://ebadrehman.github.io/)
+**Live Site:** [View Portfolio](https://ebad.tech)
 
 ## Technology Stack
 
@@ -128,8 +128,8 @@ portfolio/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/ebadrehman/ebadrehman.github.io.git
-cd ebadrehman.github.io
+git clone https://github.com/ebadr761/Portfolio-Site.git
+cd Portfolio-Site
 ```
 
 2. Install dependencies:
@@ -356,8 +356,8 @@ This project is open source and available for reference. Feel free to use it as 
 **Ebad ur Rehman**
 - Email: ebadrehman@gmail.com
 - LinkedIn: [linkedin.com/in/ebad-ur-rehman](https://linkedin.com/in/ebad-ur-rehman)
-- GitHub: [github.com/ebadrehman](https://github.com/ebadrehman)
+- GitHub: [github.com/ebadr761](https://github.com/ebadr761)
 
 ---
 
-Built with React, TypeScript, and Tailwind CSS. Deployed with GitHub Pages.
+Built with React, TypeScript, and Tailwind CSS. Deployed with GitHub Pages. What started as a vibe-coded Claude Code project for fun turned out to be something exciting to build, and I learned a lot along the way.
