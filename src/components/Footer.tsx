@@ -1,4 +1,4 @@
-import { Heart, ArrowUp, Github, Linkedin } from 'lucide-react';
+import { ArrowUp, Github, Linkedin } from 'lucide-react';
 import Container from './Container';
 import { PROFILE } from '@/data/links';
 
@@ -44,9 +44,6 @@ export default function Footer() {
 
           {/* Copyright */}
           <div className="text-center">
-            <p className="text-subtext text-sm mb-2 flex items-center justify-center gap-2">
-              Vibe coded by Ebad ur Rehman
-            </p>
             <p className="text-muted text-xs">
               © {new Date().getFullYear()} • Built with React & Tailwind CSS • Inspired by Ayu Mirage
             </p>
